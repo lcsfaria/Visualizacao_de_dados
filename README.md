@@ -30,9 +30,10 @@ Caso deseje utilizar o Jupyter notebook, faça os seguintes passos:
 
 ```
 
-No seu terminal, instale e atualize os seguites pacotes para nao termos problemas com a nbformat
-
+No seu terminal, instale e atualize os seguites pacotes para nao termos problemas com a nbformat.
+```
 pip install ipykernel
 pip install nbformat --upgrade
 pip3 install ipykernel
 pip3 install --upgrade nbformat
+```
