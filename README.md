@@ -16,10 +16,15 @@ openpyxl
 Caso deseje utilizar o Jupyter notebook, faça os seguintes passos:
 
 !pip install pandas
+
 !pip install plotly
+
 !pip install ipywidgets
+
 !pip install matplotlib
+
 !pip install seaborn
+
 !pip install openpyxl
 
 No seu terminal, instale e atualize os seguites pacotes para nao termos problemas com a nbformat
