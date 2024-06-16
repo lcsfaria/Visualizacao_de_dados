@@ -6,12 +6,12 @@ Script escrito em python3.10, utilizando a jupyter notebook como IDE.
 
 As bibliotecas necessárias:
 
-pandas
-plotly
-ipywidgets
-matplotlib
-seaborn
-openpyxl
+* ***pandas***
+* ***plotly***
+* ***ipywidgets***
+* ***matplotlib***
+* ***seaborn***
+* ***openpyxl***
 
 Caso deseje utilizar o Jupyter notebook, faça os seguintes passos:
 
